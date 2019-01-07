@@ -1,4 +1,4 @@
-ARG BUILD_FROM=hassioaddons/base-amd64:1.4.1
+ARG BUILD_FROM=hassioaddons/base-aarch64
 FROM ${BUILD_FROM}
 
 # Setup base
